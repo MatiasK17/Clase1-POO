@@ -21,7 +21,7 @@ public class POOClase1 {
         System.out.println(" Soy un objeto llamado: " + persona1.getNombre());
         System.out.println(" Soy un objeto llamado: " + persona2.getNombre());
         
-       
+        System.out.println("Hola mi gente");
   
     }
     
